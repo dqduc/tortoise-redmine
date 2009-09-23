@@ -6,3 +6,5 @@
 This project provides a [http://www.redmine.org/ Redmine] Issue tracker plugin for [http://tortoisesvn.tigris.org/ TortoiseSvn] (1.5.3 and up).
 
 = Details =
+
+http://tortoise-redmine.googlecode.com/wiki/Exemple.png
