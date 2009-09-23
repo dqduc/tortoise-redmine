@@ -7,4 +7,4 @@ This project provides a [http://www.redmine.org/ Redmine] Issue tracker plugin f
 
 = Details =
 
-http://tortoise-redmine.googlecode.com/wiki/Exemple.png
+http://tortoise-redmine.googlecode.com/svn/wiki/Exemple.png
