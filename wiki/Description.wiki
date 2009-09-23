@@ -1,0 +1,8 @@
+#summary Description of the TortoiseSVN Redmine plugin
+#labels Featured
+
+= Introduction =
+
+This project provides a [http://www.redmine.org/ Redmine] Issue tracker plugin for [http://tortoisesvn.tigris.org/ TortoiseSvn] (1.5.3 and up).
+
+= Details =
